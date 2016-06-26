@@ -1,1 +1,1 @@
-Trying a programming challenge daily with increasing difficulty
+Trying a programming challenge daily with increasing difficulty.
